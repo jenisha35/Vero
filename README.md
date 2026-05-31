@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛡️ Vero (TrustGuard)
+# 🛡️ Vero
 
 ### Verify Before You Trust.
 
@@ -116,19 +116,13 @@ Brands can:
 
 ---
 
-## Product Registration
-
-<img src="./assets/product-registration.png" width="100%">
-
----
-
 ## QR Generation
 
 <img src="./assets/qr-generation.png" width="100%">
 
 ---
 
-## Verification Page
+## Code Fetch
 
 <img src="./assets/verification-page.png" width="100%">
 
@@ -152,7 +146,7 @@ Brands can:
 
 ---
 
-## Analytics
+## Registeration
 
 <img src="./assets/analytics.png" width="100%">
 
@@ -241,7 +235,7 @@ vero/
 ## Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/vero.git
+git clone https://github.com/jenisha35/vero.git
 ```
 
 ---
@@ -305,47 +299,38 @@ spring.datasource.password=
 
 ## Author 1
 
-Name: YOUR NAME
+Name: Jenisha S
 
-GitHub: https://github.com/YOUR_GITHUB
+GitHub: https://github.com/jenisha35
 
-LinkedIn: YOUR_LINKEDIN
+LinkedIn: https://www.linkedin.com/in/jenisha03
 
-Email: your@email.com
+Email: jenisha.9530@gmail.com
 
 ---
 
 ## Author 2
 
-Name: TEAMMATE NAME
+Name: Janani S
 
-GitHub: TEAMMATE_GITHUB
+GitHub: https://github.com/jananiaiml
 
-LinkedIn: TEAMMATE_LINKEDIN
+LinkedIn: https://www.linkedin.com/in/janani-s-b47b1b292
 
-Email: TEAMMATE_EMAIL
+Email: jananiaiml@gmail.com
+
 
 ---
 
 ## Author 3
 
-Name: TEAMMATE NAME
+Name: Venkat Kumar K
 
-GitHub: TEAMMATE_GITHUB
+GitHub: https://github.com/kvvenkat07
 
-LinkedIn: TEAMMATE_LINKEDIN
+LinkedIn: https://www.linkedin.com/in/venkat-kumar-k-8673bb376
 
-Email: TEAMMATE_EMAIL
-
----
-
-# ☕ Support The Project
-
-If you found Vero useful:
-
-<a href="YOUR_PAYMENT_LINK">
-<img src="https://img.shields.io/badge/☕-Buy_Me_A_Coffee-orange?style=for-the-badge">
-</a>
+Email: kvvenkat212@gmail.com
 
 ---
 
